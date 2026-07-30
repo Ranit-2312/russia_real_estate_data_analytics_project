@@ -242,8 +242,6 @@ Business Questions
 MySQL Analysis
       ↓
 Power BI Dashboard
-      ↓
-AWS S3 Deployment
 ```
 
 ---
