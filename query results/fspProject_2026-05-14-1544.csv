@@ -1,0 +1,130 @@
+DISTRICT,OKRUG,AVG_PROPERTY_PRICE
+Khamovniki,CAO,36474342.71
+Tverskoy,CAO,35022129.11
+Arbat,CAO,34954849.62
+Presnensky,CAO,33327328.28
+Yakimanka,CAO,32078469.82
+Zamoskvorechye,CAO,28598580.88
+Meshchansky,CAO,27172990.02
+Dorogomilovo,ZAO,24627950.50
+Basmanny,CAO,24624597.99
+Tagansky,CAO,24166029.57
+Krasnoselsky,CAO,23971069.83
+Gagarinsky,YuZAO,21127148.83
+Prospekt Vernadskogo,ZAO,20568103.86
+Strogino,SZAO,20504869.23
+Lomonosovsky,YuZAO,20221641.83
+Ramenki,ZAO,19199202.63
+Cheryomushki,YuZAO,18982748.74
+Filyovsky Park,ZAO,18613410.45
+Troparyovo-Nikulino,ZAO,18455100.27
+Shchukino,SZAO,18183526.58
+Begovoy,SAO,18132149.77
+Khoroshyovsky,SAO,17888808.67
+Sokol,SAO,17582647.06
+Fili-Davydkovo,ZAO,17577701.49
+Akademichesky,YuZAO,17419815.79
+Yasenevo,YuZAO,17337181.40
+Krylatskoye,SZAO,17155903.95
+Donskoy,YuAO,16641639.34
+Kotlovka,YuZAO,16281500.00
+Preobrazhenskoye,VAO,16069830.42
+Obruchevsky,YuZAO,15819967.74
+Savyolovsky,SAO,15751182.80
+Khoroshyovo-Mnyovniki,SZAO,15649523.55
+Sokolniki,VAO,15522917.14
+Danilovsky,YuAO,15150591.04
+Kuntsevo,ZAO,15110672.09
+Timiryazevsky,SAO,14949047.51
+Aeroport,SAO,14911720.10
+Maryina Roshcha,SVAO,14910450.00
+Nagorny,YuAO,14780200.52
+Alekseevsky,SVAO,14697511.06
+Zyuzino,YuZAO,14560504.00
+Voykovsky,SAO,14428480.39
+Perovo,VAO,14332428.93
+Ostankinsky,SVAO,14310963.73
+Konkovo,YuZAO,14099775.36
+Butyrsky,SVAO,14039148.44
+Ochakovo-Matveyevskoye,ZAO,13924609.76
+Mozhaysky,ZAO,13520394.81
+Pokrovskoye-Streshnevo,SZAO,13415007.89
+Tyoply Stan,YuZAO,13062753.62
+Mitino,SZAO,13048341.40
+Nagatino-Sadovniki,YuAO,12949312.15
+Nagatinsky Zaton,YuAO,12868059.59
+Severnoye Izmaylovo,VAO,12832853.09
+Kurkino,SZAO,12794979.33
+Izmaylovo,VAO,12623725.85
+Chertanovo Yuzhnoye,YuAO,12430725.64
+Novogireyevo,VAO,12404076.53
+Sviblovo,SVAO,12381088.67
+Yuzhnoye Tushino,SZAO,12372814.32
+Chertanovo Severnoye,YuAO,12235517.95
+Levoberezhny,SAO,12030679.10
+Sokolinaya Gora,VAO,11705802.67
+Bogorodskoye,VAO,11671514.59
+Severnoye Tushino,SZAO,11475007.41
+Severnoye Butovo,YuZAO,11281835.98
+Rostokino,SVAO,11265869.57
+Koptevo,SAO,11239851.54
+Vostochnoye Izmaylovo,VAO,11152040.00
+Golovinsky,SAO,11085143.92
+Marfino,SVAO,10989013.26
+Solntsevo,ZAO,10760413.37
+Babushkinsky,SVAO,10735130.10
+Metrogorodok,VAO,10729964.58
+Moskvorechye-Saburovo,YuAO,10609366.83
+Yuzhnoye Medvedkovo,SVAO,10323792.41
+Otradnoye,SVAO,10316613.58
+Golyanovo,VAO,10311711.64
+Severnoye Medvedkovo,SVAO,10305538.27
+Ivanovskoye,VAO,10289299.73
+Losinoostrovsky,SVAO,10227756.82
+Novo-Peredelkino,ZAO,10175428.19
+Chertanovo Tsentralnoye,YuAO,10103038.25
+Mosrentgen,NAO,10029524.86
+Bibirevo,SVAO,10014874.40
+Novokosino,VAO,9947982.67
+Yuzhnoye Butovo,YuZAO,9907095.24
+Zapadnoye Degunino,SAO,9799855.19
+Tsaritsyno,YuAO,9796515.66
+Beskudnikovsky,SAO,9743183.56
+Yaroslavsky,SVAO,9568753.42
+Lianozovo,SVAO,9533561.50
+Altufyevsky,SVAO,9526031.94
+Khovrino,SAO,9520792.65
+Veshnyaki,VAO,9426194.30
+Dmitrovsky,SAO,9405808.63
+Vnukovo,ZAO,9390559.06
+Orekhovo-Borisovo Severnoye,YuAO,9204275.32
+Brateyevo,YuAO,8993051.85
+Orekhovo-Borisovo Yuzhnoye,YuAO,8990522.67
+Kosino-Ukhtomsky,VAO,8989445.29
+Zyablikovo,YuAO,8966680.63
+Biryulyovo Zapadnoye,YuAO,8906522.61
+Vostochny,VAO,8726846.15
+Biryulyovo Vostochnoye,YuAO,8349575.90
+Severny,SVAO,8158065.85
+Molzhaninovsky,SAO,7648438.64
+Vnukovskoye,NAO,7315618.50
+Moskovsky,NAO,7193431.37
+Sosenskoye,NAO,7076827.32
+Shcherbinka,NAO,6812016.00
+Desyonovskoye,NAO,6720615.94
+Voskresenskoye,NAO,6660082.67
+Filimonkovskoye,NAO,6090279.30
+Zelenograd,ZelAO,5995886.43
+Ryazanovskoye,NAO,5717535.25
+Kokoshkino,NAO,5603368.98
+Marushkinskoye,NAO,5489433.67
+Troitsk,TAO,5010925.83
+Krasnopakhorskoye,TAO,4082540.54
+Pervomayskoye,TAO,3905657.46
+Shchapovskoye,TAO,3765401.55
+Voronovskoye,TAO,3730954.98
+Mikhaylovo-Yartsevskoye,TAO,3718857.14
+Novofyodorovskoye,TAO,3611759.59
+Rogovskoye,TAO,3592227.92
+Kievsky,TAO,3552115.00
+Klyonovskoye,TAO,3514225.18

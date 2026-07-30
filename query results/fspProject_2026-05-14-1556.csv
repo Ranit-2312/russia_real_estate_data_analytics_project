@@ -1,0 +1,259 @@
+DISTRICT,FURNISHED,AVG_MONTHLY_RENT
+Presnensky,TRUE,135807.21
+Arbat,FALSE,133745.31
+Tverskoy,TRUE,128493.46
+Arbat,TRUE,126218.48
+Tverskoy,FALSE,126015.63
+Khamovniki,TRUE,124433.68
+Khamovniki,FALSE,123804.26
+Yakimanka,TRUE,121571.43
+Yakimanka,FALSE,116135.14
+Zamoskvorechye,TRUE,108516.35
+Zamoskvorechye,FALSE,108420.45
+Presnensky,FALSE,108129.55
+Meshchansky,TRUE,101933.64
+Dorogomilovo,TRUE,96553.96
+Krasnoselsky,TRUE,95755.26
+Basmanny,TRUE,94209.09
+Krasnoselsky,FALSE,89833.33
+Strogino,TRUE,89357.14
+Meshchansky,FALSE,89258.97
+Tagansky,TRUE,88123.68
+Basmanny,FALSE,87916.07
+Tagansky,FALSE,86384.21
+Prospekt Vernadskogo,TRUE,85116.82
+Lomonosovsky,TRUE,84858.33
+Gagarinsky,TRUE,81577.45
+Yasenevo,TRUE,80406.42
+Dorogomilovo,FALSE,79275.00
+Strogino,FALSE,78990.91
+Cheryomushki,TRUE,78213.00
+Gagarinsky,FALSE,77661.22
+Troparyovo-Nikulino,FALSE,77100.00
+Shchukino,TRUE,77085.84
+Cheryomushki,FALSE,76628.00
+Prospekt Vernadskogo,FALSE,75407.69
+Troparyovo-Nikulino,TRUE,74934.07
+Filyovsky Park,TRUE,74911.76
+Lomonosovsky,FALSE,73888.64
+Yasenevo,FALSE,73811.90
+Krylatskoye,TRUE,73538.40
+Sokol,TRUE,71723.21
+Ramenki,TRUE,71384.16
+Begovoy,FALSE,70394.74
+Obruchevsky,TRUE,69418.25
+Fili-Davydkovo,TRUE,69364.36
+Ramenki,FALSE,69201.67
+Fili-Davydkovo,FALSE,68495.83
+Akademichesky,TRUE,68400.00
+Khoroshyovsky,TRUE,67993.64
+Khoroshyovsky,FALSE,67618.60
+Begovoy,TRUE,67563.64
+Preobrazhenskoye,TRUE,66874.58
+Filyovsky Park,FALSE,66842.50
+Sokol,FALSE,66801.82
+Krylatskoye,FALSE,66638.64
+Shchukino,FALSE,64548.89
+Kotlovka,TRUE,64444.35
+Obruchevsky,FALSE,64076.19
+Perovo,TRUE,63139.64
+Akademichesky,FALSE,62950.00
+Zyuzino,TRUE,62355.26
+Savyolovsky,TRUE,61584.11
+Kuntsevo,TRUE,61271.43
+Khoroshyovo-Mnyovniki,TRUE,61236.22
+Donskoy,TRUE,61060.50
+Sokolniki,FALSE,60921.43
+Preobrazhenskoye,FALSE,60562.79
+Nagorny,TRUE,60055.45
+Mitino,TRUE,60055.08
+Kuntsevo,FALSE,59956.41
+Sokolniki,TRUE,59873.77
+Kotlovka,FALSE,59848.28
+Chertanovo Yuzhnoye,TRUE,58476.24
+Ochakovo-Matveyevskoye,TRUE,57876.64
+Mozhaysky,TRUE,57828.83
+Voykovsky,TRUE,57684.30
+Timiryazevsky,TRUE,57462.75
+Zyuzino,FALSE,57408.51
+Kurkino,TRUE,57264.35
+Danilovsky,TRUE,57249.59
+Severnoye Izmaylovo,TRUE,57131.07
+Aeroport,TRUE,56890.00
+Nagorny,FALSE,56826.67
+Savyolovsky,FALSE,56746.81
+Mitino,FALSE,56730.00
+Ostankinsky,TRUE,56578.50
+Maryina Roshcha,TRUE,56122.32
+Voykovsky,FALSE,56018.60
+Tyoply Stan,TRUE,55792.56
+Konkovo,FALSE,55761.11
+Alekseevsky,FALSE,55390.00
+Pokrovskoye-Streshnevo,TRUE,54968.18
+Alekseevsky,TRUE,54559.00
+Konkovo,TRUE,54424.30
+Aeroport,FALSE,54384.00
+Khoroshyovo-Mnyovniki,FALSE,54290.91
+Perovo,FALSE,53972.92
+Novogireyevo,TRUE,53462.18
+Donskoy,FALSE,52680.00
+Butyrsky,TRUE,52582.95
+Chertanovo Yuzhnoye,FALSE,52542.55
+Solntsevo,TRUE,52201.69
+Danilovsky,FALSE,52020.59
+Pokrovskoye-Streshnevo,FALSE,52005.88
+Yuzhnoye Tushino,TRUE,51938.94
+Severnoye Izmaylovo,FALSE,51537.50
+Nagatinsky Zaton,TRUE,51353.04
+Levoberezhny,TRUE,51189.84
+Chertanovo Severnoye,TRUE,51081.73
+Sviblovo,FALSE,51023.81
+Izmaylovo,TRUE,50887.70
+Ostankinsky,FALSE,50876.09
+Timiryazevsky,FALSE,50486.36
+Ochakovo-Matveyevskoye,FALSE,50108.77
+Sviblovo,TRUE,50048.65
+Severnoye Tushino,TRUE,49645.37
+Severnoye Butovo,FALSE,49222.45
+Tyoply Stan,FALSE,49068.00
+Nagatino-Sadovniki,TRUE,48914.78
+Nagatino-Sadovniki,FALSE,48450.00
+Mozhaysky,FALSE,48443.33
+Novogireyevo,FALSE,48177.27
+Kurkino,FALSE,48020.83
+Izmaylovo,FALSE,47774.19
+Bogorodskoye,TRUE,47702.70
+Yuzhnoye Butovo,TRUE,47650.47
+Severnoye Butovo,TRUE,47632.74
+Butyrsky,FALSE,47484.62
+Sokolinaya Gora,TRUE,47216.19
+Maryina Roshcha,FALSE,46969.39
+Yuzhnoye Tushino,FALSE,46886.54
+Solntsevo,FALSE,46759.26
+Chertanovo Severnoye,FALSE,46544.26
+Severnoye Tushino,FALSE,46529.79
+Golovinsky,TRUE,45873.28
+Nagatinsky Zaton,FALSE,45802.44
+Rostokino,TRUE,45622.88
+Vostochnoye Izmaylovo,TRUE,45339.05
+Vnukovo,TRUE,45317.48
+Novo-Peredelkino,TRUE,45117.00
+Marfino,TRUE,45104.76
+Koptevo,TRUE,45047.54
+Moskvorechye-Saburovo,TRUE,44848.39
+Tsaritsyno,TRUE,44731.07
+Otradnoye,TRUE,44464.91
+Babushkinsky,TRUE,44394.25
+Otradnoye,FALSE,44386.36
+Yuzhnoye Medvedkovo,TRUE,44279.82
+Yaroslavsky,TRUE,43781.91
+Golovinsky,FALSE,43693.75
+Losinoostrovsky,FALSE,43627.08
+Moskvorechye-Saburovo,FALSE,43578.26
+Bogorodskoye,FALSE,43429.41
+Bibirevo,TRUE,43232.99
+Losinoostrovsky,TRUE,43188.79
+Babushkinsky,FALSE,43105.88
+Levoberezhny,FALSE,43053.66
+Sokolinaya Gora,FALSE,42992.31
+Metrogorodok,TRUE,42964.66
+Yuzhnoye Butovo,FALSE,42783.33
+Koptevo,FALSE,42656.82
+Veshnyaki,TRUE,42560.87
+Ivanovskoye,TRUE,42521.18
+Rostokino,FALSE,42354.05
+Golyanovo,TRUE,42254.55
+Marfino,FALSE,42203.33
+Khovrino,TRUE,42000.86
+Novokosino,TRUE,41945.54
+Severnoye Medvedkovo,TRUE,41694.50
+Zapadnoye Degunino,TRUE,41501.75
+Dmitrovsky,TRUE,41468.91
+Vnukovo,FALSE,41413.33
+Chertanovo Tsentralnoye,TRUE,41345.63
+Mosrentgen,TRUE,41265.96
+Novo-Peredelkino,FALSE,41255.88
+Lianozovo,TRUE,41067.35
+Altufyevsky,TRUE,40838.33
+Beskudnikovsky,TRUE,40661.34
+Yuzhnoye Medvedkovo,FALSE,40606.52
+Tsaritsyno,FALSE,39821.43
+Golyanovo,FALSE,39704.08
+Vostochnoye Izmaylovo,FALSE,38927.78
+Yaroslavsky,FALSE,38919.57
+Bibirevo,FALSE,38676.92
+Mosrentgen,FALSE,38638.18
+Veshnyaki,FALSE,38389.19
+Zyablikovo,TRUE,38388.98
+Molzhaninovsky,TRUE,38156.70
+Khovrino,FALSE,38132.65
+Ivanovskoye,FALSE,38089.47
+Chertanovo Tsentralnoye,FALSE,37955.56
+Severnoye Medvedkovo,FALSE,37942.31
+Brateyevo,TRUE,37897.62
+Orekhovo-Borisovo Severnoye,FALSE,37895.65
+Orekhovo-Borisovo Severnoye,TRUE,37635.83
+Dmitrovsky,FALSE,37531.91
+Kosino-Ukhtomsky,TRUE,37482.47
+Biryulyovo Zapadnoye,TRUE,37246.23
+Zapadnoye Degunino,FALSE,37221.05
+Biryulyovo Vostochnoye,TRUE,36871.15
+Metrogorodok,FALSE,36837.78
+Altufyevsky,FALSE,36717.07
+Beskudnikovsky,FALSE,36586.27
+Kosino-Ukhtomsky,FALSE,36571.79
+Severny,TRUE,36481.91
+Orekhovo-Borisovo Yuzhnoye,TRUE,36119.59
+Orekhovo-Borisovo Yuzhnoye,FALSE,36005.00
+Vostochny,TRUE,35431.13
+Novokosino,FALSE,35366.00
+Brateyevo,FALSE,35176.00
+Lianozovo,FALSE,34930.77
+Zyablikovo,FALSE,34850.88
+Vnukovskoye,TRUE,34624.21
+Biryulyovo Vostochnoye,FALSE,34547.37
+Sosenskoye,TRUE,34498.89
+Biryulyovo Zapadnoye,FALSE,34084.78
+Moskovsky,TRUE,33700.00
+Vostochny,FALSE,33573.81
+Severny,FALSE,33151.11
+Shcherbinka,TRUE,32787.13
+Vnukovskoye,FALSE,32772.55
+Desyonovskoye,TRUE,32626.96
+Moskovsky,FALSE,31782.35
+Sosenskoye,FALSE,31726.92
+Molzhaninovsky,FALSE,31119.15
+Voskresenskoye,TRUE,30848.31
+Shcherbinka,FALSE,30657.45
+Voskresenskoye,FALSE,30057.50
+Desyonovskoye,FALSE,29491.11
+Zelenograd,FALSE,28575.00
+Filimonkovskoye,TRUE,28382.47
+Zelenograd,TRUE,26858.72
+Marushkinskoye,TRUE,26734.40
+Kokoshkino,TRUE,26691.35
+Ryazanovskoye,TRUE,26647.06
+Filimonkovskoye,FALSE,25555.26
+Kokoshkino,FALSE,25291.30
+Marushkinskoye,FALSE,24304.08
+Troitsk,TRUE,23748.28
+Ryazanovskoye,FALSE,23720.69
+Troitsk,FALSE,21666.13
+Krasnopakhorskoye,TRUE,18839.20
+Krasnopakhorskoye,FALSE,18617.39
+Pervomayskoye,FALSE,18436.17
+Mikhaylovo-Yartsevskoye,TRUE,17972.12
+Pervomayskoye,TRUE,17958.33
+Voronovskoye,TRUE,17811.93
+Shchapovskoye,TRUE,17611.86
+Voronovskoye,FALSE,17484.62
+Novofyodorovskoye,TRUE,16861.42
+Kievsky,TRUE,16658.72
+Shchapovskoye,FALSE,16627.03
+Rogovskoye,TRUE,16588.29
+Klyonovskoye,TRUE,16113.79
+Mikhaylovo-Yartsevskoye,FALSE,15645.83
+Klyonovskoye,FALSE,15325.42
+Rogovskoye,FALSE,14818.52
+Kievsky,FALSE,14806.38
+Novofyodorovskoye,FALSE,14562.16

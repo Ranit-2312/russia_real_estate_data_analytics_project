@@ -1,0 +1,259 @@
+SELLER_TYPE,DISTRICT,AVG_DISTANCE,DISTANCE_RANK
+agency,Kievsky,67.583169811,1
+agency,Rogovskoye,65.48625,2
+agency,Novofyodorovskoye,63.432319392,3
+agency,Voronovskoye,57.060217391,4
+agency,Klyonovskoye,55.158178439,5
+agency,Pervomayskoye,47.543225806,6
+agency,Mikhaylovo-Yartsevskoye,46.322170819,7
+agency,Shchapovskoye,42.554347826,8
+agency,Krasnopakhorskoye,40.519345455,9
+agency,Zelenograd,37.123842975,10
+agency,Troitsk,36.487923077,11
+agency,Ryazanovskoye,32.01852,12
+agency,Marushkinskoye,30.986995885,13
+agency,Kokoshkino,28.617,14
+agency,Shcherbinka,28.442288136,15
+agency,Desyonovskoye,27.680371747,16
+agency,Filimonkovskoye,26.00376,17
+agency,Molzhaninovsky,25.615527426,18
+agency,Vnukovo,25.371183206,19
+agency,Sosenskoye,25.044864865,20
+agency,Moskovsky,24.256317992,21
+agency,Voskresenskoye,23.656176471,22
+agency,Yuzhnoye Butovo,23.65612782,23
+agency,Vnukovskoye,22.573361702,24
+agency,Kurkino,20.896567164,25
+agency,Novo-Peredelkino,19.964942966,26
+agency,Severny,19.91625,27
+agency,Mitino,19.540352941,28
+agency,Severnoye Butovo,19.392532189,29
+agency,Biryulyovo Vostochnoye,19.217921569,30
+agency,Solntsevo,18.486640625,31
+agency,Biryulyovo Zapadnoye,18.114903475,32
+agency,Yasenevo,17.499296296,33
+agency,Zyablikovo,17.137759336,34
+agency,Mosrentgen,17.094090909,35
+agency,Chertanovo Yuzhnoye,17.081370968,36
+agency,Tyoply Stan,17.050186567,37
+agency,Lianozovo,16.674375,38
+agency,Orekhovo-Borisovo Yuzhnoye,16.663977695,39
+agency,Vostochny,16.360701754,40
+agency,Severnoye Tushino,16.09925,41
+agency,Khovrino,15.642561983,42
+agency,Orekhovo-Borisovo Severnoye,15.494346154,43
+agency,Novokosino,15.369380165,44
+agency,Tsaritsyno,15.331325301,45
+agency,Altufyevsky,15.133538462,46
+agency,Levoberezhny,15.068294574,47
+agency,Brateyevo,15.062319392,48
+agency,Yuzhnoye Tushino,15.007230769,49
+agency,Kosino-Ukhtomsky,14.965515873,50
+agency,Dmitrovsky,14.834007937,51
+agency,Severnoye Medvedkovo,14.750306513,52
+agency,Strogino,14.729511278,53
+agency,Bibirevo,14.634391144,54
+agency,Yaroslavsky,14.579864253,55
+agency,Losinoostrovsky,14.407158672,56
+agency,Troparyovo-Nikulino,14.252468085,57
+agency,Konkovo,14.196872587,58
+agency,Yuzhnoye Medvedkovo,13.832641509,59
+agency,Chertanovo Tsentralnoye,13.64252,60
+agency,Beskudnikovsky,13.623017241,61
+agency,Zapadnoye Degunino,13.436890756,62
+agency,Mozhaysky,13.357089202,63
+agency,Vostochnoye Izmaylovo,13.29809322,64
+agency,Severnoye Izmaylovo,13.267777778,65
+agency,Golyanovo,13.222139918,66
+agency,Krylatskoye,13.039298246,67
+agency,Babushkinsky,12.977888889,68
+agency,Ivanovskoye,12.93528,69
+agency,Pokrovskoye-Streshnevo,12.92412,70
+agency,Golovinsky,12.63859375,71
+agency,Veshnyaki,12.513185484,72
+agency,Moskvorechye-Saburovo,12.323945312,73
+agency,Otradnoye,12.268804781,74
+agency,Ochakovo-Matveyevskoye,12.247521008,75
+agency,Koptevo,11.92277533,76
+agency,Kuntsevo,11.886007605,77
+agency,Prospekt Vernadskogo,11.744982699,78
+agency,Chertanovo Severnoye,11.498306452,79
+agency,Shchukino,11.314909091,80
+agency,Obruchevsky,11.249206349,81
+agency,Novogireyevo,11.234806202,82
+agency,Sviblovo,11.1862,83
+agency,Metrogorodok,11.119145299,84
+agency,Zyuzino,11.081067194,85
+agency,Voykovsky,10.477198444,86
+agency,Perovo,10.407340824,87
+agency,Izmaylovo,10.407125984,88
+agency,Marfino,10.078148148,89
+agency,Rostokino,9.993385214,90
+agency,Cheryomushki,9.97247012,91
+agency,Khoroshyovo-Mnyovniki,9.578333333,92
+agency,Fili-Davydkovo,9.491501832,93
+agency,Bogorodskoye,9.387103175,94
+agency,Nagorny,9.321737452,95
+agency,Kotlovka,9.284057377,96
+agency,Nagatinsky Zaton,9.18314741,97
+agency,Ramenki,9.181296296,98
+agency,Sokol,9.032943396,99
+agency,Filyovsky Park,8.858241758,100
+agency,Lomonosovsky,8.480188679,101
+agency,Nagatino-Sadovniki,8.217170543,102
+agency,Akademichesky,8.068717949,103
+agency,Ostankinsky,8.019788136,104
+agency,Sokolinaya Gora,7.884362934,105
+agency,Aeroport,7.787898833,106
+agency,Timiryazevsky,7.787236364,107
+agency,Preobrazhenskoye,7.726970803,108
+agency,Butyrsky,7.379134199,109
+agency,Khoroshyovsky,6.539015748,110
+agency,Gagarinsky,6.522862595,111
+agency,Alekseevsky,6.466174242,112
+agency,Begovoy,5.757926421,113
+agency,Sokolniki,5.714255319,114
+agency,Danilovsky,5.229814815,115
+agency,Savyolovsky,5.224235294,116
+agency,Donskoy,5.134526749,117
+agency,Maryina Roshcha,4.649315068,118
+agency,Dorogomilovo,4.611127273,119
+agency,Krasnoselsky,3.931982759,120
+agency,Khamovniki,3.79071161,121
+agency,Basmanny,3.729581749,122
+agency,Tagansky,3.511166667,123
+agency,Presnensky,3.218916667,124
+agency,Meshchansky,3.185204918,125
+agency,Yakimanka,2.877804878,126
+agency,Zamoskvorechye,2.45875502,127
+agency,Tverskoy,2.388069498,128
+agency,Arbat,2.154251969,129
+owner,Kievsky,67.504962963,1
+owner,Rogovskoye,65.24631068,2
+owner,Novofyodorovskoye,63.295234375,3
+owner,Voronovskoye,56.901917808,4
+owner,Klyonovskoye,55.096111111,5
+owner,Pervomayskoye,47.648596491,6
+owner,Mikhaylovo-Yartsevskoye,46.119863014,7
+owner,Shchapovskoye,42.529323308,8
+owner,Krasnopakhorskoye,40.515151515,9
+owner,Zelenograd,37.208487395,10
+owner,Troitsk,36.550916031,11
+owner,Ryazanovskoye,32.212481203,12
+owner,Marushkinskoye,30.77295302,13
+owner,Kokoshkino,28.598541667,14
+owner,Shcherbinka,28.115971223,15
+owner,Desyonovskoye,27.546068966,16
+owner,Filimonkovskoye,26.135165563,17
+owner,Molzhaninovsky,25.874657534,18
+owner,Vnukovo,25.301344538,19
+owner,Sosenskoye,24.95248062,20
+owner,Yuzhnoye Butovo,23.95125,21
+owner,Moskovsky,23.865932203,22
+owner,Voskresenskoye,23.807226277,23
+owner,Vnukovskoye,22.505225225,24
+owner,Kurkino,20.675294118,25
+owner,Severny,20.079130435,26
+owner,Novo-Peredelkino,19.995132743,27
+owner,Mitino,19.500940171,28
+owner,Biryulyovo Vostochnoye,19.5005625,29
+owner,Severnoye Butovo,19.436068966,30
+owner,Solntsevo,18.494864865,31
+owner,Biryulyovo Zapadnoye,18.046330935,32
+owner,Yasenevo,17.465875,33
+owner,Mosrentgen,17.291,34
+owner,Zyablikovo,17.183546099,35
+owner,Tyoply Stan,17.005753425,36
+owner,Chertanovo Yuzhnoye,16.786338028,37
+owner,Orekhovo-Borisovo Yuzhnoye,16.631733333,38
+owner,Lianozovo,16.58440678,39
+owner,Vostochny,16.526341463,40
+owner,Severnoye Tushino,16.09848,41
+owner,Khovrino,15.937985612,42
+owner,Novokosino,15.394444444,43
+owner,Tsaritsyno,15.319698795,44
+owner,Levoberezhny,15.306041667,45
+owner,Orekhovo-Borisovo Severnoye,15.16768,46
+owner,Altufyevsky,15.003741497,47
+owner,Yuzhnoye Tushino,14.901111111,48
+owner,Dmitrovsky,14.891008403,49
+owner,Kosino-Ukhtomsky,14.881985816,50
+owner,Brateyevo,14.858450704,51
+owner,Severnoye Medvedkovo,14.833611111,52
+owner,Strogino,14.814919355,53
+owner,Losinoostrovsky,14.483863636,54
+owner,Bibirevo,14.482447552,55
+owner,Yaroslavsky,14.267361111,56
+owner,Troparyovo-Nikulino,14.218432836,57
+owner,Konkovo,14.162516129,58
+owner,Yuzhnoye Medvedkovo,13.791153846,59
+owner,Beskudnikovsky,13.727819549,60
+owner,Chertanovo Tsentralnoye,13.684568966,61
+owner,Vostochnoye Izmaylovo,13.432014388,62
+owner,Zapadnoye Degunino,13.360078125,63
+owner,Mozhaysky,13.341716418,64
+owner,Golyanovo,13.26,65
+owner,Severnoye Izmaylovo,13.226344828,66
+owner,Krylatskoye,12.991190476,67
+owner,Babushkinsky,12.834918033,68
+owner,Pokrovskoye-Streshnevo,12.747923077,69
+owner,Ivanovskoye,12.675669291,70
+owner,Veshnyaki,12.490144928,71
+owner,Golovinsky,12.442040816,72
+owner,Moskvorechye-Saburovo,12.37915493,73
+owner,Otradnoye,12.369015152,74
+owner,Ochakovo-Matveyevskoye,12.040381679,75
+owner,Koptevo,12.007538462,76
+owner,Kuntsevo,11.914528302,77
+owner,Prospekt Vernadskogo,11.84096,78
+owner,Chertanovo Severnoye,11.583521127,79
+owner,Shchukino,11.452833333,80
+owner,Novogireyevo,11.33380597,81
+owner,Obruchevsky,11.324166667,82
+owner,Zyuzino,11.119344262,83
+owner,Metrogorodok,11.107669173,84
+owner,Sviblovo,11.093717949,85
+owner,Perovo,10.453858268,86
+owner,Voykovsky,10.370529801,87
+owner,Izmaylovo,10.346511628,88
+owner,Marfino,10.231268657,89
+owner,Rostokino,10.027324841,90
+owner,Cheryomushki,9.969795918,91
+owner,Khoroshyovo-Mnyovniki,9.707304348,92
+owner,Fili-Davydkovo,9.57627907,93
+owner,Nagorny,9.40856,94
+owner,Bogorodskoye,9.3604,95
+owner,Kotlovka,9.297536232,96
+owner,Nagatinsky Zaton,9.276962963,97
+owner,Ramenki,9.174,98
+owner,Sokol,9.11034965,99
+owner,Filyovsky Park,8.79379845,100
+owner,Lomonosovsky,8.580463576,101
+owner,Nagatino-Sadovniki,8.255192308,102
+owner,Sokolinaya Gora,8.173017241,103
+owner,Aeroport,8.050514706,104
+owner,Ostankinsky,8.0446,105
+owner,Akademichesky,8.002827586,106
+owner,Timiryazevsky,7.859931507,107
+owner,Preobrazhenskoye,7.667637795,108
+owner,Butyrsky,7.234509804,109
+owner,Gagarinsky,6.558347107,110
+owner,Alekseevsky,6.46965035,111
+owner,Khoroshyovsky,6.413115942,112
+owner,Sokolniki,5.702608696,113
+owner,Begovoy,5.535925926,114
+owner,Danilovsky,5.435957447,115
+owner,Savyolovsky,5.317521368,116
+owner,Donskoy,5.081382114,117
+owner,Dorogomilovo,4.706434109,118
+owner,Maryina Roshcha,4.517024793,119
+owner,Krasnoselsky,3.951904762,120
+owner,Basmanny,3.935481481,121
+owner,Khamovniki,3.931209677,122
+owner,Tagansky,3.730909091,123
+owner,Meshchansky,3.050318471,124
+owner,Presnensky,3.048846154,125
+owner,Yakimanka,2.873407407,126
+owner,Zamoskvorechye,2.415283019,127
+owner,Tverskoy,2.339632353,128
+owner,Arbat,2.242,129

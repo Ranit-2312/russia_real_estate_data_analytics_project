@@ -1,0 +1,646 @@
+DISTRICT,BUILDING_TYPE,AVG_PRICE,PRICE_RANK
+Strogino,stalin,362083.333333,1
+Strogino,monolith,329632.876712,2
+Strogino,brick,322080.882353,3
+Strogino,modern_panel,308117.567568,4
+Strogino,panel,279372.619048,5
+Altufyevsky,stalin,171600.000000,1
+Altufyevsky,monolith,157928.750000,2
+Altufyevsky,brick,147152.459016,3
+Altufyevsky,modern_panel,144515.789474,4
+Altufyevsky,panel,124227.848101,5
+Perovo,stalin,254292.000000,1
+Perovo,monolith,235611.250000,2
+Perovo,modern_panel,221123.913043,3
+Perovo,brick,221089.552239,4
+Perovo,panel,196150.617284,5
+Brateyevo,stalin,154920.689655,1
+Brateyevo,monolith,145451.685393,2
+Brateyevo,brick,144966.666667,3
+Brateyevo,modern_panel,129472.289157,4
+Brateyevo,panel,125140.740741,5
+Novogireyevo,stalin,229116.000000,1
+Novogireyevo,monolith,208252.112676,2
+Novogireyevo,brick,191286.301370,3
+Novogireyevo,modern_panel,181288.235294,4
+Novogireyevo,panel,169914.634146,5
+Vnukovskoye,stalin,135704.166667,1
+Vnukovskoye,monolith,117683.582090,2
+Vnukovskoye,brick,112603.278689,3
+Vnukovskoye,modern_panel,111946.153846,4
+Vnukovskoye,panel,100363.492063,5
+Voskresenskoye,stalin,131959.090909,1
+Voskresenskoye,monolith,110413.432836,2
+Voskresenskoye,modern_panel,100818.292683,3
+Voskresenskoye,brick,100282.857143,4
+Voskresenskoye,panel,92786.666667,5
+Shcherbinka,stalin,127893.333333,1
+Shcherbinka,monolith,111906.976744,2
+Shcherbinka,brick,102154.285714,3
+Shcherbinka,modern_panel,100618.181818,4
+Shcherbinka,panel,89675.757576,5
+Mikhaylovo-Yartsevskoye,stalin,66266.666667,1
+Mikhaylovo-Yartsevskoye,monolith,61010.389610,2
+Mikhaylovo-Yartsevskoye,brick,59285.714286,3
+Mikhaylovo-Yartsevskoye,modern_panel,55532.584270,4
+Mikhaylovo-Yartsevskoye,panel,52678.494624,5
+Voronovskoye,stalin,67559.090909,1
+Voronovskoye,monolith,64216.883117,2
+Voronovskoye,brick,58227.777778,3
+Voronovskoye,modern_panel,56533.009709,4
+Voronovskoye,panel,49932.500000,5
+Lianozovo,stalin,160378.947368,1
+Lianozovo,monolith,155032.941176,2
+Lianozovo,brick,146872.580645,3
+Lianozovo,modern_panel,137047.727273,4
+Lianozovo,panel,129248.750000,5
+Tsaritsyno,stalin,181296.666667,1
+Tsaritsyno,monolith,164314.457831,2
+Tsaritsyno,brick,150575.949367,3
+Tsaritsyno,modern_panel,149832.051282,4
+Tsaritsyno,panel,131556.097561,5
+Sviblovo,stalin,238318.518519,1
+Sviblovo,monolith,201900.000000,2
+Sviblovo,brick,191018.571429,3
+Sviblovo,modern_panel,187070.238095,4
+Sviblovo,panel,176237.647059,5
+Maryina Roshcha,stalin,265380.952381,1
+Maryina Roshcha,monolith,246215.853659,2
+Maryina Roshcha,brick,230315.517241,3
+Maryina Roshcha,modern_panel,220575.000000,4
+Maryina Roshcha,panel,201630.000000,5
+Zamoskvorechye,stalin,543431.578947,1
+Zamoskvorechye,monolith,478843.529412,2
+Zamoskvorechye,brick,455259.493671,3
+Zamoskvorechye,modern_panel,415622.368421,4
+Zamoskvorechye,panel,389693.421053,5
+Donskoy,stalin,294980.000000,1
+Donskoy,monolith,263935.714286,2
+Donskoy,brick,261611.764706,3
+Donskoy,modern_panel,242101.470588,4
+Donskoy,panel,234776.056338,5
+Babushkinsky,stalin,204796.000000,1
+Babushkinsky,brick,172636.111111,2
+Babushkinsky,monolith,172589.230769,3
+Babushkinsky,modern_panel,157418.181818,4
+Babushkinsky,panel,148257.303371,5
+Novofyodorovskoye,stalin,62776.190476,1
+Novofyodorovskoye,monolith,58621.276596,2
+Novofyodorovskoye,brick,56333.333333,3
+Novofyodorovskoye,modern_panel,52829.870130,4
+Novofyodorovskoye,panel,48070.238095,5
+Pokrovskoye-Streshnevo,stalin,236903.448276,1
+Pokrovskoye-Streshnevo,monolith,220430.188679,2
+Pokrovskoye-Streshnevo,brick,206331.746032,3
+Pokrovskoye-Streshnevo,modern_panel,197514.285714,4
+Pokrovskoye-Streshnevo,panel,188955.555556,5
+Moskovsky,stalin,128650.000000,1
+Moskovsky,monolith,117972.307692,2
+Moskovsky,brick,115225.000000,3
+Moskovsky,modern_panel,108436.000000,4
+Moskovsky,panel,97972.151899,5
+Tyoply Stan,stalin,247176.923077,1
+Tyoply Stan,monolith,220636.470588,2
+Tyoply Stan,brick,199014.285714,3
+Tyoply Stan,modern_panel,198111.111111,4
+Tyoply Stan,panel,173638.947368,5
+Beskudnikovsky,stalin,197443.478261,1
+Beskudnikovsky,monolith,162496.052632,2
+Beskudnikovsky,brick,157763.636364,3
+Beskudnikovsky,modern_panel,152561.194030,4
+Beskudnikovsky,panel,136016.666667,5
+Khoroshyovo-Mnyovniki,stalin,303737.142857,1
+Khoroshyovo-Mnyovniki,monolith,250664.864865,2
+Khoroshyovo-Mnyovniki,brick,238798.437500,3
+Khoroshyovo-Mnyovniki,modern_panel,214961.538462,4
+Khoroshyovo-Mnyovniki,panel,203178.082192,5
+Veshnyaki,stalin,159015.384615,1
+Veshnyaki,monolith,157363.636364,2
+Veshnyaki,brick,141107.462687,3
+Veshnyaki,modern_panel,138750.684932,4
+Veshnyaki,panel,130652.439024,5
+Mitino,stalin,216476.923077,1
+Mitino,monolith,213400.000000,2
+Mitino,modern_panel,198869.565217,3
+Mitino,brick,197568.965517,4
+Mitino,panel,184600.000000,5
+Arbat,stalin,638400.000000,1
+Arbat,brick,554537.313433,2
+Arbat,monolith,553092.307692,3
+Arbat,modern_panel,504026.388889,4
+Arbat,panel,482206.818182,5
+Golovinsky,stalin,196082.857143,1
+Golovinsky,monolith,187100.000000,2
+Golovinsky,brick,173031.746032,3
+Golovinsky,modern_panel,166432.926829,4
+Golovinsky,panel,156158.000000,5
+Basmanny,stalin,450596.551724,1
+Basmanny,brick,400110.606061,2
+Basmanny,monolith,393575.308642,3
+Basmanny,modern_panel,370363.095238,4
+Basmanny,panel,332188.750000,5
+Koptevo,stalin,199804.347826,1
+Koptevo,monolith,182059.420290,2
+Koptevo,modern_panel,170201.204819,3
+Koptevo,brick,169550.847458,4
+Koptevo,panel,147762.121212,5
+Obruchevsky,stalin,284865.384615,1
+Obruchevsky,brick,268445.070423,2
+Obruchevsky,monolith,251506.849315,3
+Obruchevsky,modern_panel,240128.813559,4
+Obruchevsky,panel,211111.392405,5
+Rogovskoye,stalin,65680.000000,1
+Rogovskoye,monolith,56572.580645,2
+Rogovskoye,brick,55419.402985,3
+Rogovskoye,modern_panel,55025.000000,4
+Rogovskoye,panel,46704.687500,5
+Yakimanka,stalin,590753.571429,1
+Yakimanka,monolith,528131.884058,2
+Yakimanka,brick,500035.443038,3
+Yakimanka,modern_panel,486223.255814,4
+Yakimanka,panel,444214.102564,5
+Nagatinsky Zaton,stalin,227916.000000,1
+Nagatinsky Zaton,monolith,210616.470588,2
+Nagatinsky Zaton,modern_panel,199223.880597,3
+Nagatinsky Zaton,brick,198191.228070,4
+Nagatinsky Zaton,panel,181488.764045,5
+Pervomayskoye,stalin,68453.846154,1
+Pervomayskoye,monolith,66366.666667,2
+Pervomayskoye,modern_panel,61769.863014,3
+Pervomayskoye,brick,58418.309859,4
+Pervomayskoye,panel,53980.555556,5
+Severnoye Butovo,stalin,205382.142857,1
+Severnoye Butovo,monolith,179925.301205,2
+Severnoye Butovo,brick,171361.666667,3
+Severnoye Butovo,modern_panel,168536.923077,4
+Severnoye Butovo,panel,152643.209877,5
+Nagorny,stalin,272066.666667,1
+Nagorny,monolith,241759.036145,2
+Nagorny,brick,223555.172414,3
+Nagorny,modern_panel,220736.619718,4
+Nagorny,panel,202284.615385,5
+Ostankinsky,stalin,269367.857143,1
+Ostankinsky,monolith,234935.211268,2
+Ostankinsky,brick,221729.824561,3
+Ostankinsky,modern_panel,213954.794521,4
+Ostankinsky,panel,196253.846154,5
+Lomonosovsky,stalin,362683.333333,1
+Lomonosovsky,monolith,338710.256410,2
+Lomonosovsky,brick,315811.392405,3
+Lomonosovsky,panel,293646.428571,4
+Lomonosovsky,modern_panel,292600.000000,5
+Shchukino,stalin,336473.076923,1
+Shchukino,monolith,298869.879518,2
+Shchukino,brick,285196.969697,3
+Shchukino,modern_panel,277017.777778,4
+Shchukino,panel,250887.142857,5
+Solntsevo,stalin,212540.000000,1
+Solntsevo,monolith,174196.153846,2
+Solntsevo,brick,167276.923077,3
+Solntsevo,modern_panel,164781.578947,4
+Solntsevo,panel,150750.537634,5
+Chertanovo Yuzhnoye,stalin,242990.000000,1
+Chertanovo Yuzhnoye,monolith,201298.717949,2
+Chertanovo Yuzhnoye,brick,194742.647059,3
+Chertanovo Yuzhnoye,modern_panel,184901.470588,4
+Chertanovo Yuzhnoye,panel,166270.731707,5
+Yuzhnoye Tushino,stalin,213133.333333,1
+Yuzhnoye Tushino,brick,198419.402985,2
+Yuzhnoye Tushino,monolith,196082.716049,3
+Yuzhnoye Tushino,modern_panel,186949.333333,4
+Yuzhnoye Tushino,panel,167972.222222,5
+Ivanovskoye,stalin,184212.000000,1
+Ivanovskoye,monolith,169451.428571,2
+Ivanovskoye,modern_panel,159615.625000,3
+Ivanovskoye,brick,155725.675676,4
+Ivanovskoye,panel,141930.120482,5
+Sokolinaya Gora,stalin,218271.052632,1
+Sokolinaya Gora,brick,183113.636364,2
+Sokolinaya Gora,monolith,179347.368421,3
+Sokolinaya Gora,modern_panel,166867.142857,4
+Sokolinaya Gora,panel,161987.804878,5
+Ryazanovskoye,stalin,111665.000000,1
+Ryazanovskoye,monolith,94524.719101,2
+Ryazanovskoye,brick,88888.235294,3
+Ryazanovskoye,modern_panel,86972.000000,4
+Ryazanovskoye,panel,76836.781609,5
+Danilovsky,stalin,295794.117647,1
+Danilovsky,monolith,260481.081081,2
+Danilovsky,brick,246437.500000,3
+Danilovsky,modern_panel,217168.181818,4
+Danilovsky,panel,203041.558442,5
+Biryulyovo Zapadnoye,stalin,166352.941176,1
+Biryulyovo Zapadnoye,monolith,142539.393939,2
+Biryulyovo Zapadnoye,brick,138223.437500,3
+Biryulyovo Zapadnoye,modern_panel,134152.747253,4
+Biryulyovo Zapadnoye,panel,123602.325581,5
+Alekseevsky,stalin,270543.243243,1
+Alekseevsky,monolith,234598.837209,2
+Alekseevsky,brick,216440.298507,3
+Alekseevsky,modern_panel,211220.481928,4
+Alekseevsky,panel,199094.871795,5
+Rostokino,stalin,193343.750000,1
+Rostokino,monolith,184529.268293,2
+Rostokino,brick,169398.529412,3
+Rostokino,modern_panel,165303.061224,4
+Rostokino,panel,155447.297297,5
+Troparyovo-Nikulino,stalin,310761.904762,1
+Troparyovo-Nikulino,monolith,301097.402597,2
+Troparyovo-Nikulino,brick,289131.578947,3
+Troparyovo-Nikulino,modern_panel,275828.205128,4
+Troparyovo-Nikulino,panel,249857.142857,5
+Chertanovo Severnoye,stalin,225703.703704,1
+Chertanovo Severnoye,monolith,192538.750000,2
+Chertanovo Severnoye,brick,188962.857143,3
+Chertanovo Severnoye,modern_panel,177380.769231,4
+Chertanovo Severnoye,panel,168295.774648,5
+Khoroshyovsky,stalin,315460.000000,1
+Khoroshyovsky,monolith,303860.240964,2
+Khoroshyovsky,brick,285346.376812,3
+Khoroshyovsky,modern_panel,271400.000000,4
+Khoroshyovsky,panel,234776.923077,5
+Metrogorodok,stalin,184900.000000,1
+Metrogorodok,monolith,171280.555556,2
+Metrogorodok,brick,163905.405405,3
+Metrogorodok,modern_panel,151342.500000,4
+Metrogorodok,panel,147562.500000,5
+Filyovsky Park,stalin,344876.190476,1
+Filyovsky Park,monolith,312068.000000,2
+Filyovsky Park,brick,292652.238806,3
+Filyovsky Park,modern_panel,270700.000000,4
+Filyovsky Park,panel,260804.255319,5
+Zapadnoye Degunino,stalin,185619.047619,1
+Zapadnoye Degunino,monolith,158285.294118,2
+Zapadnoye Degunino,brick,154397.333333,3
+Zapadnoye Degunino,modern_panel,146937.142857,4
+Zapadnoye Degunino,panel,135676.315789,5
+Severnoye Tushino,stalin,210072.000000,1
+Severnoye Tushino,monolith,188418.072289,2
+Severnoye Tushino,brick,178992.957746,3
+Severnoye Tushino,modern_panel,166718.823529,4
+Severnoye Tushino,panel,160608.333333,5
+Chertanovo Tsentralnoye,stalin,181260.000000,1
+Chertanovo Tsentralnoye,monolith,166707.142857,2
+Chertanovo Tsentralnoye,brick,151567.241379,3
+Chertanovo Tsentralnoye,modern_panel,149320.833333,4
+Chertanovo Tsentralnoye,panel,139903.797468,5
+Gagarinsky,stalin,416500.000000,1
+Gagarinsky,monolith,326162.318841,2
+Gagarinsky,brick,313003.030303,3
+Gagarinsky,modern_panel,305561.194030,4
+Gagarinsky,panel,283731.034483,5
+Krasnopakhorskoye,stalin,79850.000000,1
+Krasnopakhorskoye,monolith,65968.965517,2
+Krasnopakhorskoye,brick,64992.537313,3
+Krasnopakhorskoye,modern_panel,63320.731707,4
+Krasnopakhorskoye,panel,58853.658537,5
+Kotlovka,stalin,270063.636364,1
+Kotlovka,monolith,255007.317073,2
+Kotlovka,brick,251386.567164,3
+Kotlovka,modern_panel,237407.228916,4
+Kotlovka,panel,217711.904762,5
+Yuzhnoye Medvedkovo,stalin,188706.666667,1
+Yuzhnoye Medvedkovo,monolith,162157.142857,2
+Yuzhnoye Medvedkovo,brick,155843.661972,3
+Yuzhnoye Medvedkovo,modern_panel,151596.153846,4
+Yuzhnoye Medvedkovo,panel,144149.350649,5
+Khamovniki,stalin,645100.000000,1
+Khamovniki,monolith,576187.837838,2
+Khamovniki,modern_panel,548521.333333,3
+Khamovniki,brick,539112.328767,4
+Khamovniki,panel,492123.255814,5
+Novo-Peredelkino,stalin,172906.451613,1
+Novo-Peredelkino,monolith,159259.420290,2
+Novo-Peredelkino,modern_panel,157817.333333,3
+Novo-Peredelkino,brick,154800.000000,4
+Novo-Peredelkino,panel,134932.835821,5
+Biryulyovo Vostochnoye,stalin,155250.000000,1
+Biryulyovo Vostochnoye,monolith,135649.411765,2
+Biryulyovo Vostochnoye,brick,131249.275362,3
+Biryulyovo Vostochnoye,modern_panel,123343.478261,4
+Biryulyovo Vostochnoye,panel,122061.224490,5
+Presnensky,stalin,594655.555556,1
+Presnensky,monolith,539849.350649,2
+Presnensky,brick,515646.666667,3
+Presnensky,modern_panel,504372.413793,4
+Presnensky,panel,444113.333333,5
+Tagansky,stalin,439737.500000,1
+Tagansky,monolith,393554.385965,2
+Tagansky,brick,382729.166667,3
+Tagansky,modern_panel,361969.333333,4
+Tagansky,panel,351962.962963,5
+Kievsky,stalin,58195.833333,1
+Kievsky,brick,56302.816901,2
+Kievsky,monolith,55655.421687,3
+Kievsky,modern_panel,53116.000000,4
+Kievsky,panel,47538.636364,5
+Butyrsky,stalin,259093.103448,1
+Butyrsky,monolith,234038.372093,2
+Butyrsky,brick,216923.880597,3
+Butyrsky,modern_panel,201654.545455,4
+Butyrsky,panel,184267.123288,5
+Krasnoselsky,stalin,450044.444444,1
+Krasnoselsky,monolith,401088.333333,2
+Krasnoselsky,brick,373527.397260,3
+Krasnoselsky,modern_panel,371404.000000,4
+Krasnoselsky,panel,325063.492063,5
+Novokosino,stalin,190300.000000,1
+Novokosino,monolith,159637.777778,2
+Novokosino,brick,150326.582278,3
+Novokosino,modern_panel,140060.714286,4
+Novokosino,panel,137134.567901,5
+Cheryomushki,stalin,363633.333333,1
+Cheryomushki,monolith,300937.647059,2
+Cheryomushki,brick,299486.956522,3
+Cheryomushki,modern_panel,294279.166667,4
+Cheryomushki,panel,261381.927711,5
+Vostochny,stalin,165015.000000,1
+Vostochny,monolith,144350.649351,2
+Vostochny,modern_panel,135510.344828,3
+Vostochny,brick,133107.575758,4
+Vostochny,panel,121364.473684,5
+Yuzhnoye Butovo,stalin,167433.333333,1
+Yuzhnoye Butovo,monolith,166748.648649,2
+Yuzhnoye Butovo,brick,145477.777778,3
+Yuzhnoye Butovo,modern_panel,141002.985075,4
+Yuzhnoye Butovo,panel,136019.402985,5
+Molzhaninovsky,stalin,133651.851852,1
+Molzhaninovsky,monolith,121284.415584,2
+Molzhaninovsky,brick,117456.164384,3
+Molzhaninovsky,modern_panel,114773.134328,4
+Molzhaninovsky,panel,106801.234568,5
+Dmitrovsky,stalin,163258.620690,1
+Dmitrovsky,monolith,153965.671642,2
+Dmitrovsky,modern_panel,141676.744186,3
+Dmitrovsky,brick,141580.952381,4
+Dmitrovsky,panel,128132.786885,5
+Desyonovskoye,stalin,122976.666667,1
+Desyonovskoye,monolith,107050.000000,2
+Desyonovskoye,brick,102528.767123,3
+Desyonovskoye,modern_panel,100616.161616,4
+Desyonovskoye,panel,93157.608696,5
+Filimonkovskoye,stalin,108363.157895,1
+Filimonkovskoye,monolith,99456.250000,2
+Filimonkovskoye,modern_panel,91764.705882,3
+Filimonkovskoye,brick,91232.307692,4
+Filimonkovskoye,panel,78810.126582,5
+Mozhaysky,stalin,232058.064516,1
+Mozhaysky,monolith,222884.810127,2
+Mozhaysky,brick,221648.333333,3
+Mozhaysky,modern_panel,192325.352113,4
+Mozhaysky,panel,184361.904762,5
+Shchapovskoye,stalin,67544.444444,1
+Shchapovskoye,monolith,60760.000000,2
+Shchapovskoye,brick,59988.571429,3
+Shchapovskoye,modern_panel,55176.056338,4
+Shchapovskoye,panel,50489.156627,5
+Dorogomilovo,stalin,470160.869565,1
+Dorogomilovo,monolith,393315.662651,2
+Dorogomilovo,brick,376133.333333,3
+Dorogomilovo,modern_panel,364352.808989,4
+Dorogomilovo,panel,344801.265823,5
+Sosenskoye,stalin,135190.322581,1
+Sosenskoye,monolith,111900.000000,2
+Sosenskoye,modern_panel,110340.540541,3
+Sosenskoye,brick,110209.459459,4
+Sosenskoye,panel,99218.987342,5
+Zelenograd,stalin,105280.000000,1
+Zelenograd,monolith,101779.411765,2
+Zelenograd,brick,91829.687500,3
+Zelenograd,modern_panel,84551.612903,4
+Zelenograd,panel,82823.863636,5
+Golyanovo,stalin,187335.294118,1
+Golyanovo,monolith,171501.538462,2
+Golyanovo,brick,161118.571429,3
+Golyanovo,modern_panel,157643.835616,4
+Golyanovo,panel,141440.000000,5
+Kosino-Ukhtomsky,stalin,158970.270270,1
+Kosino-Ukhtomsky,monolith,143673.333333,2
+Kosino-Ukhtomsky,brick,142186.792453,3
+Kosino-Ukhtomsky,modern_panel,134075.308642,4
+Kosino-Ukhtomsky,khrushchev,118556.666667,5
+Vnukovo,stalin,169836.666667,1
+Vnukovo,monolith,154012.820513,2
+Vnukovo,brick,146162.857143,3
+Vnukovo,modern_panel,141583.018868,4
+Vnukovo,panel,135373.863636,5
+Kuntsevo,stalin,263972.000000,1
+Kuntsevo,monolith,247281.012658,2
+Kuntsevo,brick,228364.556962,3
+Kuntsevo,modern_panel,219601.515152,4
+Kuntsevo,panel,204795.384615,5
+Mosrentgen,stalin,174700.000000,1
+Mosrentgen,monolith,165302.666667,2
+Mosrentgen,brick,150967.605634,3
+Mosrentgen,modern_panel,148171.232877,4
+Mosrentgen,panel,128744.594595,5
+Zyuzino,stalin,278762.500000,1
+Zyuzino,monolith,237737.974684,2
+Zyuzino,brick,225898.484848,3
+Zyuzino,modern_panel,207998.461538,4
+Zyuzino,panel,204243.055556,5
+Khovrino,stalin,175317.241379,1
+Khovrino,monolith,159475.949367,2
+Khovrino,brick,147373.611111,3
+Khovrino,modern_panel,143848.809524,4
+Khovrino,panel,128255.737705,5
+Izmaylovo,stalin,229252.380952,1
+Izmaylovo,monolith,207301.250000,2
+Izmaylovo,brick,201010.344828,3
+Izmaylovo,modern_panel,181490.909091,4
+Izmaylovo,panel,175176.136364,5
+Severny,stalin,143540.000000,1
+Severny,monolith,131561.111111,2
+Severny,brick,128092.000000,3
+Severny,modern_panel,123888.311688,4
+Severny,panel,111513.829787,5
+Bogorodskoye,stalin,217125.000000,1
+Bogorodskoye,monolith,189050.666667,2
+Bogorodskoye,brick,182572.857143,3
+Bogorodskoye,modern_panel,176070.000000,4
+Bogorodskoye,panel,154231.818182,5
+Klyonovskoye,stalin,67300.000000,1
+Klyonovskoye,monolith,56521.348315,2
+Klyonovskoye,brick,55928.205128,3
+Klyonovskoye,modern_panel,53829.333333,4
+Klyonovskoye,panel,49383.544304,5
+Akademichesky,stalin,323469.565217,1
+Akademichesky,monolith,291093.670886,2
+Akademichesky,brick,269052.380952,3
+Akademichesky,modern_panel,261765.168539,4
+Akademichesky,panel,235597.826087,5
+Prospekt Vernadskogo,stalin,356210.810811,1
+Prospekt Vernadskogo,monolith,337826.086957,2
+Prospekt Vernadskogo,brick,310265.671642,3
+Prospekt Vernadskogo,modern_panel,299779.518072,4
+Prospekt Vernadskogo,panel,268024.000000,5
+Meshchansky,stalin,496171.428571,1
+Meshchansky,monolith,438645.000000,2
+Meshchansky,brick,433737.096774,3
+Meshchansky,modern_panel,384678.082192,4
+Meshchansky,panel,383717.821782,5
+Ochakovo-Matveyevskoye,stalin,259333.333333,1
+Ochakovo-Matveyevskoye,monolith,229587.301587,2
+Ochakovo-Matveyevskoye,brick,215230.985915,3
+Ochakovo-Matveyevskoye,modern_panel,194044.444444,4
+Ochakovo-Matveyevskoye,panel,188056.923077,5
+Marushkinskoye,stalin,105350.000000,1
+Marushkinskoye,monolith,85462.318841,2
+Marushkinskoye,brick,84656.578947,3
+Marushkinskoye,modern_panel,81040.963855,4
+Marushkinskoye,panel,73650.000000,5
+Krylatskoye,stalin,329836.000000,1
+Krylatskoye,monolith,288953.731343,2
+Krylatskoye,brick,278106.060606,3
+Krylatskoye,modern_panel,245736.619718,4
+Krylatskoye,panel,221398.245614,5
+Yasenevo,stalin,320548.571429,1
+Yasenevo,monolith,286578.048780,2
+Yasenevo,brick,269681.609195,3
+Yasenevo,modern_panel,266111.494253,4
+Yasenevo,panel,237448.684211,5
+Severnoye Izmaylovo,stalin,231533.333333,1
+Severnoye Izmaylovo,monolith,208527.160494,2
+Severnoye Izmaylovo,brick,203182.432432,3
+Severnoye Izmaylovo,modern_panel,189679.032258,4
+Severnoye Izmaylovo,panel,174491.954023,5
+Sokol,stalin,330615.384615,1
+Sokol,brick,279710.126582,2
+Sokol,monolith,275409.523810,3
+Sokol,modern_panel,269181.081081,4
+Sokol,panel,239376.595745,5
+Begovoy,stalin,342029.166667,1
+Begovoy,monolith,285518.888889,2
+Begovoy,brick,276152.173913,3
+Begovoy,modern_panel,273795.180723,4
+Begovoy,khrushchev,242848.529412,5
+Orekhovo-Borisovo Severnoye,stalin,163061.538462,1
+Orekhovo-Borisovo Severnoye,monolith,148186.111111,2
+Orekhovo-Borisovo Severnoye,brick,142747.887324,3
+Orekhovo-Borisovo Severnoye,modern_panel,135133.766234,4
+Orekhovo-Borisovo Severnoye,panel,121847.945205,5
+Yaroslavsky,stalin,180173.913043,1
+Yaroslavsky,monolith,155641.463415,2
+Yaroslavsky,brick,150521.153846,3
+Yaroslavsky,modern_panel,143603.333333,4
+Yaroslavsky,panel,131441.935484,5
+Fili-Davydkovo,stalin,328985.185185,1
+Fili-Davydkovo,monolith,290838.961039,2
+Fili-Davydkovo,brick,260509.523810,3
+Fili-Davydkovo,modern_panel,255026.829268,4
+Fili-Davydkovo,panel,231551.948052,5
+Moskvorechye-Saburovo,stalin,183330.303030,1
+Moskvorechye-Saburovo,monolith,174500.000000,2
+Moskvorechye-Saburovo,brick,171371.428571,3
+Moskvorechye-Saburovo,modern_panel,161033.720930,4
+Moskvorechye-Saburovo,panel,141348.437500,5
+Kokoshkino,stalin,110455.000000,1
+Kokoshkino,monolith,92806.410256,2
+Kokoshkino,brick,88314.814815,3
+Kokoshkino,modern_panel,84314.492754,4
+Kokoshkino,panel,77061.538462,5
+Losinoostrovsky,stalin,192696.551724,1
+Losinoostrovsky,monolith,165485.714286,2
+Losinoostrovsky,modern_panel,154704.347826,3
+Losinoostrovsky,brick,152634.848485,4
+Losinoostrovsky,panel,136951.219512,5
+Timiryazevsky,stalin,273940.000000,1
+Timiryazevsky,monolith,235965.591398,2
+Timiryazevsky,brick,224835.211268,3
+Timiryazevsky,modern_panel,216685.869565,4
+Timiryazevsky,panel,198793.589744,5
+Vostochnoye Izmaylovo,stalin,198456.250000,1
+Vostochnoye Izmaylovo,brick,180476.056338,2
+Vostochnoye Izmaylovo,monolith,178949.333333,3
+Vostochnoye Izmaylovo,modern_panel,168696.153846,4
+Vostochnoye Izmaylovo,panel,150925.373134,5
+Otradnoye,stalin,197954.166667,1
+Otradnoye,monolith,169247.887324,2
+Otradnoye,brick,166770.833333,3
+Otradnoye,modern_panel,156475.714286,4
+Otradnoye,panel,137944.444444,5
+Bibirevo,stalin,182010.344828,1
+Bibirevo,monolith,161052.325581,2
+Bibirevo,brick,157026.582278,3
+Bibirevo,modern_panel,152382.352941,4
+Bibirevo,panel,133576.744186,5
+Sokolniki,stalin,268140.000000,1
+Sokolniki,monolith,263541.666667,2
+Sokolniki,modern_panel,243631.168831,3
+Sokolniki,brick,230277.777778,4
+Sokolniki,panel,210895.384615,5
+Marfino,stalin,219223.076923,1
+Marfino,brick,179207.812500,2
+Marfino,monolith,176110.937500,3
+Marfino,modern_panel,164144.047619,4
+Marfino,panel,152372.000000,5
+Ramenki,stalin,360716.666667,1
+Ramenki,monolith,316034.939759,2
+Ramenki,brick,291774.324324,3
+Ramenki,modern_panel,279046.913580,4
+Ramenki,panel,259114.285714,5
+Zyablikovo,stalin,156995.652174,1
+Zyablikovo,monolith,144379.268293,2
+Zyablikovo,brick,138726.666667,3
+Zyablikovo,modern_panel,135678.082192,4
+Zyablikovo,panel,118167.164179,5
+Troitsk,stalin,93768.965517,1
+Troitsk,monolith,84313.414634,2
+Troitsk,brick,78657.142857,3
+Troitsk,modern_panel,72664.634146,4
+Troitsk,panel,68538.461538,5
+Severnoye Medvedkovo,stalin,187127.272727,1
+Severnoye Medvedkovo,monolith,167361.538462,2
+Severnoye Medvedkovo,brick,163812.307692,3
+Severnoye Medvedkovo,modern_panel,150292.500000,4
+Severnoye Medvedkovo,panel,139910.204082,5
+Preobrazhenskoye,stalin,282692.592593,1
+Preobrazhenskoye,monolith,257310.000000,2
+Preobrazhenskoye,brick,251458.536585,3
+Preobrazhenskoye,modern_panel,231656.976744,4
+Preobrazhenskoye,panel,209085.507246,5
+Aeroport,stalin,267492.000000,1
+Aeroport,monolith,246263.366337,2
+Aeroport,brick,220753.968254,3
+Aeroport,modern_panel,218333.870968,4
+Aeroport,panel,196203.896104,5
+Kurkino,stalin,229851.515152,1
+Kurkino,monolith,209688.405797,2
+Kurkino,brick,199106.250000,3
+Kurkino,modern_panel,189686.301370,4
+Kurkino,panel,175233.333333,5
+Orekhovo-Borisovo Yuzhnoye,stalin,161642.105263,1
+Orekhovo-Borisovo Yuzhnoye,monolith,147876.000000,2
+Orekhovo-Borisovo Yuzhnoye,brick,137146.031746,3
+Orekhovo-Borisovo Yuzhnoye,modern_panel,126625.555556,4
+Orekhovo-Borisovo Yuzhnoye,panel,123126.829268,5
+Savyolovsky,stalin,278610.526316,1
+Savyolovsky,monolith,262744.736842,2
+Savyolovsky,brick,248423.188406,3
+Savyolovsky,modern_panel,234680.882353,4
+Savyolovsky,panel,208561.538462,5
+Nagatino-Sadovniki,stalin,231104.000000,1
+Nagatino-Sadovniki,monolith,210836.000000,2
+Nagatino-Sadovniki,brick,202932.394366,3
+Nagatino-Sadovniki,panel,186779.487179,4
+Nagatino-Sadovniki,modern_panel,186215.625000,5
+Tverskoy,stalin,645307.142857,1
+Tverskoy,monolith,558013.698630,2
+Tverskoy,brick,540791.304348,3
+Tverskoy,modern_panel,508262.962963,4
+Tverskoy,panel,485726.582278,5
+Levoberezhny,stalin,220684.000000,1
+Levoberezhny,monolith,187600.000000,2
+Levoberezhny,brick,182372.500000,3
+Levoberezhny,modern_panel,173973.563218,4
+Levoberezhny,panel,159427.027027,5
+Voykovsky,stalin,266838.235294,1
+Voykovsky,monolith,235445.161290,2
+Voykovsky,brick,225255.555556,3
+Voykovsky,modern_panel,213088.157895,4
+Voykovsky,panel,200808.695652,5
+Konkovo,stalin,256281.578947,1
+Konkovo,monolith,227908.536585,2
+Konkovo,brick,213355.223881,3
+Konkovo,modern_panel,200924.137931,4
+Konkovo,panel,184002.531646,5
